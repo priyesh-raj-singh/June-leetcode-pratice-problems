@@ -1,2 +1,2 @@
 # June-leetcode-pratice-problems
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions that i had praticed in month of June.
