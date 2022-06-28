@@ -26,7 +26,7 @@ public:
                 else
                 {
                 count+=(v[i+1]-v[i]+1);
-                v[i+1]=v[i+1]-(v[i+1]-v[i]+1);
+                v[i+1]=v[i]-1;
             }}
         }
             
